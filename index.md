@@ -3,19 +3,18 @@
    Introducción a reproducibilidad en bioinformática
 ![langebio](images/langebio.png)  
 
-En este curso aprenderás herramientas de control de versiones, Git y OpenRefine que facilitan la reproducibilidad en análisis de datos. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
-
 ## Calendario  
+
 |        Lunes 1 de Marzo         |
 |---------------------------------|
-|["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)|
-|[Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)|
-|[Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/)|
-|[Project Management for genomics](https://datacarpentry.org/organization-genomics/)| 
+| ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496) |
+| [Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) |
+| [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/) |
+| [Project Management for genomics](https://datacarpentry.org/organization-genomics/) | 
 
 |            Miércoles 3 de Marzo              |
 |---------------------------------|
-|  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |
+| Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |
 | Parte 1 de [Git](https://swcarpentry.github.io/git-novice/)   |
 
 |              Viernes 5 de Marzo              |
@@ -24,6 +23,8 @@ En este curso aprenderás herramientas de control de versiones, Git y OpenRefine
 
 
 ## Informacion General  
+En este curso aprenderás herramientas de control de versiones, Git y OpenRefine que facilitan la reproducibilidad en análisis de datos. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
+
 Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de las lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data Carpentry](https://datacarpentry.org/), organizaciones dedicada a enseñar habilidades de cómputo para hacer análisis de datos de forma reproducible, usaremos estas dos lecciones con su permiso. 
 ____________
 # INSTALACIONES REQUERIDAS
