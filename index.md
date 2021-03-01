@@ -7,7 +7,8 @@
 
 |        Lunes 1 de Marzo         |
 |---------------------------------|
-| Presentación introductoria: [¿Por qué aprender sobre reproducibilidad en bioinformátca?](https://www.dropbox.com/s/jroqaja9xq9jvs6/210301_Taller_reproducibilidad_bioinform%C3%A1tica_BI_Grabaci%C3%B3n.pptx?dl=0) |
+| Presentación: [¿Por qué aprender sobre reproducibilidad en bioinformátca? (pptx)](https://www.dropbox.com/s/jroqaja9xq9jvs6/210301_Taller_reproducibilidad_bioinform%C3%A1tica_BI_Grabaci%C3%B3n.pptx?dl=0) |
+| Presentación: [¿Por qué aprender sobre reproducibilidad en bioinformátca? (video)](https://www.dropbox.com/sh/4kk5emtu6nlywvu/AAAOq5lK25MyJ-xUNIGhG7swa?dl=0)  |
 | [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/) |
 | [Project Management for genomics](https://datacarpentry.org/organization-genomics/) | 
 
