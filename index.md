@@ -10,7 +10,7 @@ En este curso aprenderás herramientas de linux, git y OpenRefine que facilitan 
 
 ## Calendario  
 
-|        Lunes 1 de Marzo             |            Miércoles 3 de Marzo                 |      Viernes 5 de Marzo              |
+|        Lunes 1 de Marzo         |            Miércoles 3 de Marzo                 |              Viernes 5 de Marzo              |
 ----------------------------------|--------------------------------------|-------------------------------------------------|
  ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  |  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |    Parte 2 de [Git](https://swcarpentry.github.io/git-novice/)  |
  [Reglas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)   |  Parte 1 de [Git](https://swcarpentry.github.io/git-novice/)   
