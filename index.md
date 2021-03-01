@@ -1,11 +1,11 @@
   
     
- Clase de reproducibilidad en bioinformática
+          Introducción a reproducibilidad en bioinformática
 
 # Bioinformática  
-![langebio](imagenes/langebio.png)  
+![langebio](images/langebio.png)  
 
-En este curso aprenderás un poco de las herramientas linux, git, Google docs y microreact.  
+En este curso aprenderás un poco de las herramientas linux, git, OpenRefine. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
 
 
 
