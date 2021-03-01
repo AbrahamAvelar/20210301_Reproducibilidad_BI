@@ -27,7 +27,7 @@ En este curso aprenderás herramientas de control de versiones, Git y OpenRefine
 
 Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit ) y una [hoja de cálculo colaborativa](https://docs.google.com/spreadsheets/d/1GEOtNJ3ELqdbkSzgDqV5DV7Ho_LwmqtAobPK8QjwEwM/edit?usp=sharing) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de las lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data Carpentry](https://datacarpentry.org/), organizaciones dedicada a enseñar habilidades de cómputo para hacer análisis de datos de forma reproducible, usaremos estas dos lecciones con su permiso. 
 ____________
-## INSTALACIONES REQUERIDAS
+## INSTALACIONES REQUERIDAS (para miércoles y viernes)
 <div id="shell">
   <h3>The Bash Shell</h3>
   <p>
