@@ -24,7 +24,7 @@
 ## Informacion General  
 En este curso aprenderás herramientas de control de versiones, Git y OpenRefine que facilitan la reproducibilidad en análisis de datos. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
 
-Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de las lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data Carpentry](https://datacarpentry.org/), organizaciones dedicada a enseñar habilidades de cómputo para hacer análisis de datos de forma reproducible, usaremos estas dos lecciones con su permiso. 
+Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit ) y una [hoja de cálculo colaborativa](https://docs.google.com/spreadsheets/d/1GEOtNJ3ELqdbkSzgDqV5DV7Ho_LwmqtAobPK8QjwEwM/edit?usp=sharing) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de las lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data Carpentry](https://datacarpentry.org/), organizaciones dedicada a enseñar habilidades de cómputo para hacer análisis de datos de forma reproducible, usaremos estas dos lecciones con su permiso. 
 ____________
 ## INSTALACIONES REQUERIDAS
 <div id="shell">
