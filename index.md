@@ -7,8 +7,7 @@
 
 |        Lunes 1 de Marzo         |
 |---------------------------------|
-| ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496) |
-| [Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) |
+| [Presentación introductoria](https://www.dropbox.com/s/lns8hcnabyinuac/210301_Taller_reproducibilidad_bioinform%C3%A1tica_BI.pptx?dl=0) |
 | [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/) |
 | [Project Management for genomics](https://datacarpentry.org/organization-genomics/) | 
 
