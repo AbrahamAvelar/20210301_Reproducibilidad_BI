@@ -2,7 +2,9 @@
     
           Introducción a reproducibilidad en bioinformática
 ![langebio](images/langebio.png)  
-En este curso aprenderás herramientas de linux, git y OpenRefine que facilitan la reproducibilidad en análisis de datos. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
+
+En este curso aprenderás herramientas de control de versiones, Git y OpenRefine que facilitan la reproducibilidad en análisis de datos. También revisaremos buenas prácticas en organización de archivos y tablas con datos para biología.  
+
 ## Calendario  
 |        Lunes 1 de Marzo         |
 |---------------------------------|
@@ -10,46 +12,19 @@ En este curso aprenderás herramientas de linux, git y OpenRefine que facilitan 
 |[Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)|
 | [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/)  |
 | [Project Management for genomics](https://datacarpentry.org/organization-genomics/) | 
+
 |            Miércoles 3 de Marzo              |
 |---------------------------------|
 |  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |
 | Parte 1 de [Git](https://swcarpentry.github.io/git-novice/)   |
+
 |              Viernes 5 de Marzo              |
 |---------------------------------|
 |    Parte 2 de [Git](https://swcarpentry.github.io/git-novice/)  |
 
 
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
-Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit?usp=sharing) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de nuestras lecciones  son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data carpentry](https://https://datacarpentry.org/) Organizaciones dedicada a enseñar habilidades de cómputo para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso.
-
-## Temario detallado  
-<table> <tr><td> <b> Tema 1 Linux bash </b> <br>
-1.1 Linux/Unix, Principios básicos del Shell  <br>
-1.2 Comandos para el manejo de archivos y directorios   <br>
-1.3 Loops   <br>
-1.4 Manejo de Scripts    <br>
-1.5 Encontrar información: grep y find. <br> </td>
-    <td> <b> Tema 2  Google y la organización de documentos </b><br>
-2.1 Formas: Crear encuestas presentables. <br>
-2.2 Drive documentos del laboratorio, compartir documentos <br>
-2.3 Sites crear una página para el laboratorio <br>
-2.4 Calendar Organizar la agenda. <br>
-2.5 Tareas Organizar las tareas diarias. <br></td></tr>
-    <tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
-3.1 La importancia de documentar y respaldar el trabajo informático <br>
-3.2 Git Guardar los scripts en internet <br>
-3.3 MD Crear documentación organizada <br>
-3.4 Wiki git Documentar extensivamente scripts <br>
-3.5 Ejemplos: R también tiene markdown (MD) para documentar procedimientos <br>
-Docker y la repetibilidad de resultados en maquinas <br></td>
-      <td> <b> Tema 4  Herramientas de genómica </b> <br>  
-4.1 Descargar datos NCBI (Linux) <br>  
-4.2 Cómo tomar metadatos en proyectos genómicos <br>  
-4.3 MicroReact y la visualización de metadatos. <br>  
-4.4 Editar archivos para microreact: One liners <br>  
-4.5 Seaview crear un arbol para microreact. <br>   </td> </tr> </table>    
-
+Aqui puedes encontrar un [documento colaborativo](https://docs.google.com/document/d/1M8Zy_DoDovuSDXQgjHfiwRrRUXyJQC3bPq_3VJYq9hQ/edit ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. La mayor parte de las lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) y [data Carpentry](https://datacarpentry.org/), organizaciones dedicada a enseñar habilidades de cómputo para hacer análisis de datos de forma reproducible, usaremos estas dos lecciones con su permiso. 
 ____________
 # INSTALACIONES  
 {% comment %}
