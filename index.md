@@ -1,5 +1,6 @@
-# Reproducibilidad_BI
-Clase de reproducibilidad en bioinformática
+  
+    
+ Clase de reproducibilidad en bioinformática
 
 # Bioinformática  
 ![langebio](imagenes/langebio.png)  
