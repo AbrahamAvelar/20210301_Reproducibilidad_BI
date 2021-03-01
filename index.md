@@ -44,8 +44,6 @@ ____________
   <div>
     <ul class="nav nav-tabs" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#openrefine-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
-      <li role="presentation"><a data-os="macos" href="#openrefine-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
-      <li role="presentation"><a data-os="linux" href="#openrefine-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
 
     <div class="tab-content">
@@ -64,6 +62,9 @@ ____________
           <li>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</li>
         </ol>
       </article>
+      
+            <li role="presentation"><a data-os="macos" href="#openrefine-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
+      
       <article role="tabpanel" class="tab-pane" id="openrefine-macos">
         <ol>
           <li>Check that you have either the Firefox or the Chrome browser installed and set as your default browser. <strong>OpenRefine runs in your default browser.</strong> It may not run correctly in Safari.</li>
@@ -78,6 +79,7 @@ ____________
       </article>
       <article role="tabpanel" class="tab-pane" id="openrefine-linux">
         <ol>
+	<li role="presentation"><a data-os="linux" href="#openrefine-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
           <li>Check that you have either the Firefox or the Chrome browser installed and set as your default browser. <strong>OpenRefine runs in your default browser.</strong></li>
           <li>Download software from <a href="http://openrefine.org/">http://openrefine.org/</a>.</li>
           <li>Make a directory called OpenRefine.</li>
