@@ -13,7 +13,8 @@ En este curso aprenderás herramientas de linux, git y OpenRefine que facilitan 
 |        Lunes 1 de Marzo         |
 |---------------------------------|
 |  ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  |
-|[Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) | [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/)  |
+|[Reglas básicas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)|
+| [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/)  |
 | [Project Management for genomics](https://datacarpentry.org/organization-genomics/) | 
 
 |            Miércoles 3 de Marzo              |
