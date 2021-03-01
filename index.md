@@ -12,10 +12,10 @@ En este curso aprenderás herramientas de linux, git y OpenRefine que facilitan 
 
 |        Lunes 1 de Marzo             |            Miércoles 3 de Marzo                 |      Viernes 5 de Marzo              |
 ----------------------------------|--------------------------------------|-------------------------------------------------|
- ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  |  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
- [Reglas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)  
+ ["Tipos" de bioinformáticos](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)  |  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) |    Parte 2 de [Git](https://swcarpentry.github.io/git-novice/)  |
+ [Reglas de Reproducibilidad](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)   |  Parte 1 de [Git](https://swcarpentry.github.io/git-novice/)   
  [Data Organization for Ecology](https://datacarpentry.org/spreadsheet-ecology-lesson/)  
- [Project Management for genomics](https://datacarpentry.org/organization-genomics/) |  Data cleaning with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) Parte 1 de [Git](https://swcarpentry.github.io/git-novice/)   |    Parte 2 de [Git](https://swcarpentry.github.io/git-novice/)  |
+ [Project Management for genomics](https://datacarpentry.org/organization-genomics/) |  Parte 1 de [Git](https://swcarpentry.github.io/git-novice/) 
 
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
