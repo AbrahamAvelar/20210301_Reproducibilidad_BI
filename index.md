@@ -45,7 +45,7 @@ ____________
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
         <ol>
-          <li>Download the Git for Windows <a href="https://gitforwindows.org/">installer</a>.</li>
+          <li><strong>In  Windows</strong>, download the Git for Windows <a href="https://gitforwindows.org/">installer</a>.</li>
           <li>Run the installer and follow the steps below:
             <ol>
               {% comment %} Git 2.27.0 Setup {% endcomment %}
@@ -256,7 +256,7 @@ the text below accordingly.
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="git-windows">
         <p>
-          Git should be installed on your computer as part of your Bash
+          <strong>In  Windows</strong>, Git should be installed on your computer as part of your Bash
           install (see the
           <a href="#shell">Shell installation instructions</a>).
         </p>
@@ -284,7 +284,7 @@ the text below accordingly.
       </article>
       <article role="tabpanel" class="tab-pane" id="git-linux">
         <p>
-          If Git is not already available on your machine you can try to
+          <strong>In  lunux</strong> if Git is not already available on your machine you can try to
           install it via your distro's package manager. For Debian/Ubuntu run
           <code>sudo apt-get install git</code> and for Fedora run
           <code>sudo dnf install git</code>.
